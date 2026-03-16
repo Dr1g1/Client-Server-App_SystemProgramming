@@ -20,5 +20,5 @@ File reading and response sending are non-blocking, allowing the server to handl
 Faculty: Faculty of Electronics, University of Niš  
 Semester: 6th  
 Course: System Programming  
-Program: Computer Science and Informatics
+Program: Computer Science and Informatics  
 Team members: Draga Jović, Mila Jović
