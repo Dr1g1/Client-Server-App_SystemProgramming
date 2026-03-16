@@ -1,4 +1,4 @@
-# Client-Server App - Second Project of System Programming course
+# Client-Server App - Second Project of System Programming 
 A file named proba.txt has been added on the server side for testing the correct functionality of the program.
 
 Task 13:
