@@ -1,5 +1,6 @@
 # Client-Server App - Second Project of System Programming course
 A file named proba.txt has been added on the server side for testing the correct functionality of the program.
+
 Task 13:
  Create a web server that counts words in a specified file. Only words that start with a capital letter and contain more than 5 letters should be counted.
  All requests to the server are sent via a web browser using the GET method. The request includes the filename as a parameter. The server should:
